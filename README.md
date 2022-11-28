@@ -1,24 +1,45 @@
-# README
+# FIRST RAILS PRACTICE
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In this project I have given the first steps in Ruby on Rails.
 
-Things you may want to cover:
+PROJECT DETAILS
 
-* Ruby version
+OBJECTIVES
 
-* System dependencies
+* Install Ruby on Rails
 
-* Configuration
+* Work with the Rails console
 
-* Database creation
+* Use the Rails generator
 
-* Database initialization
+* Use RubyGems
 
-* How to run the test suite
+* Use Bundler
 
-* Services (job queues, cache servers, search engines, etc.)
+* Use the Rails server
 
-* Deployment instructions
+
+## Built With
+
+* Ruby on Rails
+
+## Authors
+
+- GitHub: [@robinbenitezmora](https://github.com/robinbenitezmora)
+- Twitter: [@Mecanico_Robin](https://twitter.com/mecanico_robin)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/robin-benitez-mora/)
+
+## Contributing
+Contributions, issues, and feature requests are welcome!
+Feel free to check the issues page.
+Feel free to check the [issues page](../../issues/).
+​
+## Show your support
+Give a ⭐️ if you like this project!
+## Acknowledgments 
+Thanks to all Microverse partners for their advice.
+## License
+This project is [MIT](./MIT.md) licensed.
+
 
 * ...
