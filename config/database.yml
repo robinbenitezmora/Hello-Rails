@@ -23,7 +23,7 @@ default: &default
 
 development:
   <<: *default
-   # database: Hello_Rails_development
+  # database: Hello_Rails_development
   database: railsdb
   username: postgres
   password: peti2020#
